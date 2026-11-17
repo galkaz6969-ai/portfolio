@@ -37,7 +37,7 @@ This file gives Claude the full context for this project, so every new session p
 - English CV and English site: no high-school name (just "Full Matriculation Diploma"). The Hebrew versions keep the school name (ברנקו וייס).
 - The final Hebrew CV is Gal's Word file; Claude's last edited copy added the website/LinkedIn links, removed the duplicate Tamarack entry, and set body text to 11.5pt to fit one page.
 - The Hebrew site text follows the wording of Gal's Hebrew CV (Word file, kept by Gal): for example "משתתף בקליניקה לפרקטיקה וסיוע משפטי" and "מפעיל מכלול בחיל האוויר". Job facts (employers, titles) still match the English site.
-- The clinic role is **"Student Clinician, Legal Clinic"** (Hebrew: סטודנט בקליניקה המשפטית), described as work **under attorney supervision**. Do not use "Legal Advisor" or "יועץ משפטי": in Israel that wording implies a law license.
+- The clinic role is **"Student Clinician, Legal Practice & Aid Clinic"** (Hebrew: משתתף בקליניקה לפרקטיקה וסיוע משפטי), described as work **under attorney supervision**. Do not use "Legal Advisor" or "יועץ משפטי": in Israel that wording implies a law license.
 - The hero and the Snapshot card stay general (management, lifeguarding, sales). Specific hotels are mentioned only in the Experience section.
 - The phone number stays on the site.
 - The site uses the official logos of the IAF, the Ministry of Labor and the Red Cross. Gal chose this after he was told these symbols are legally protected.
