@@ -32,9 +32,11 @@ This file gives Claude the full context for this project, so every new session p
 - The design follows a reference site Gal liked (Michael Mutter's portfolio on Vercel): a sticky top bar, a blue gradient accent, rounded cards. Fonts are Plus Jakarta Sans for English and Heebo for Hebrew.
 
 ## Decisions already made (don't re-ask)
+- **Gal's Hebrew CV (Word file) is the source of truth for facts.** The English CV, the English site and the Hebrew site must all match it (same employers, roles, dates, sections). Translation wording may differ, facts may not.
+- 2021–2025 hotels: Isrotel, The Ritz-Carlton Herzliya and other hotels in central Israel (senior lifeguard and pool team manager, seasonal). Holmes Place (2026–): pool lifeguard, student position. Tamarack Camps sits under Volunteering, as in the Hebrew CV.
 - The Hebrew site text follows the wording of Gal's Hebrew CV (Word file, kept by Gal): for example "משתתף בקליניקה לפרקטיקה וסיוע משפטי" and "מפעיל מכלול בחיל האוויר". Job facts (employers, titles) still match the English site.
 - The clinic role is **"Student Clinician, Legal Clinic"** (Hebrew: סטודנט בקליניקה המשפטית), described as work **under attorney supervision**. Do not use "Legal Advisor" or "יועץ משפטי": in Israel that wording implies a law license.
-- The hero and the Snapshot card stay general (management, lifeguarding, sales). The Ritz-Carlton is mentioned only in the Experience section.
+- The hero and the Snapshot card stay general (management, lifeguarding, sales). Specific hotels are mentioned only in the Experience section.
 - The phone number stays on the site.
 - The site uses the official logos of the IAF, the Ministry of Labor and the Red Cross. Gal chose this after he was told these symbols are legally protected.
 - There is no GitHub link in the top bar yet. Add one once Gal has real projects on GitHub.
