@@ -6,6 +6,7 @@ This file gives Claude the full context for this project, so every new session p
 - **Gal Kazaz**: a third-year LL.B. student at Netanya Academic College. He is looking for a tech-oriented legal internship starting **March 2028**.
 - Gal is **not a programmer**. Talk to him **in Hebrew**, simply, one step at a time. When he has to click something, give the exact button name and ask for a screenshot if he gets stuck.
 - Hebrew text about Gal is always **masculine** (סטודנט, not סטודנטית).
+- His name in Hebrew is spelled **גל קזז** (not קזאז).
 - Gal does not edit code himself. He asks Claude for a change, Claude commits and pushes to `main`, and Vercel redeploys automatically.
 
 ## How the site works
@@ -31,6 +32,7 @@ This file gives Claude the full context for this project, so every new session p
 - The design follows a reference site Gal liked (Michael Mutter's portfolio on Vercel): a sticky top bar, a blue gradient accent, rounded cards. Fonts are Plus Jakarta Sans for English and Heebo for Hebrew.
 
 ## Decisions already made (don't re-ask)
+- The Hebrew site text follows the wording of Gal's Hebrew CV (Word file, kept by Gal): for example "משתתף בקליניקה לפרקטיקה וסיוע משפטי" and "מפעיל מכלול בחיל האוויר". Job facts (employers, titles) still match the English site.
 - The clinic role is **"Student Clinician, Legal Clinic"** (Hebrew: סטודנט בקליניקה המשפטית), described as work **under attorney supervision**. Do not use "Legal Advisor" or "יועץ משפטי": in Israel that wording implies a law license.
 - The hero and the Snapshot card stay general (management, lifeguarding, sales). The Ritz-Carlton is mentioned only in the Experience section.
 - The phone number stays on the site.
